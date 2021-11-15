@@ -1,2 +1,2 @@
 # Hate-Speech-Text-Classification-NLP-Neural-Network
-with Tochi Ebere
+Using Natural Language Processing with Deep Neural Network - designed with Tochi Ebere
